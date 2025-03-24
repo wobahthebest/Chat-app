@@ -7,7 +7,7 @@ export default {
     extend: {},
   },
   daisyui: {
-    themes: ["lofi", "garden", "luxury", "autumn", "retro"],
+    themes: ["lofi", "garden", "luxury", "autumn", "retro", "pastel"],
   },
   plugins: [daisyui],
 };
